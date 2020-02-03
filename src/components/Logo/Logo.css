@@ -1,0 +1,36 @@
+#Logo {
+  display: flex;
+  align-items: center;
+}
+
+#Logo .box {
+  width: 50px;
+  height: 50px;
+  border: 2px solid #FF6600;
+  border-radius: 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#Logo .box span {
+  font-size: 25px;
+  font-weight: bold;
+  color: #FF6600;
+}
+
+#Logo .wordmark {
+  margin-left: 12px;
+}
+
+#Logo .wordmark h1 {
+  font-size: 22px;
+  font-weight: bold;
+  color: #FF6600;
+  margin-bottom: 0;
+}
+
+#Logo .wordmark h6 {
+  font-size: 12px;
+  margin-bottom: 0;
+}

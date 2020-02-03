@@ -1,0 +1,24 @@
+#Navigation ul {
+  display: flex;
+  list-style: none;
+}
+
+#Navigation ul li {
+  padding-right: 25px;
+}
+
+#Navigation ul li a {
+  font-weight: bold;
+  color: #FF6600;
+  padding-left: 5px;
+  padding-bottom: 5px;
+  text-decoration: none;
+}
+
+#Navigation ul li a:hover {
+  border-bottom: 2px solid #FF6600;
+}
+
+#Navigation ul li a.active {
+  border-bottom: 2px solid #FF6600;
+}

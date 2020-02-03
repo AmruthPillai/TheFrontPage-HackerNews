@@ -1,0 +1,51 @@
+#Post {
+  padding: 40px 0;
+  border-bottom: 1px solid #DDD;
+}
+
+#Post .upvote {
+  width: 32px;
+  height: 32px;
+}
+
+#Post .upvote span {
+  font-size: 18px;
+  text-align: center;
+}
+
+#Post .meta h6 {
+  font-size: 14px;
+}
+
+#Post .meta small {
+  color: #AAA;
+  font-weight: normal;
+  font-size: 16px;
+}
+
+#Post .actions .timestamp {
+  font-size: 14px;
+  color: #AAA;
+}
+
+#Post .actions .comment span {
+  color: #FF6600;
+}
+
+#Post .actions .comment,
+#Post .actions .hide {
+  opacity: 0;
+  transition: all .25s ease-in-out;
+}
+
+#Post:hover .actions .comment,
+#Post:hover .actions .hide {
+  opacity: 1;
+  transition: all .25s ease-in-out;
+}
+
+#Post .actions .comment img,
+#Post .actions .hide img {
+  width: 20px;
+  height: 20px;
+}
