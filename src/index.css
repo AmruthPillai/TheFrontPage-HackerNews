@@ -2,3 +2,7 @@ html,
 body {
   font-family: 'Roboto Slab', serif;
 }
+
+.cursor-pointer {
+  cursor: pointer;
+}

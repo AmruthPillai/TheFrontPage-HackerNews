@@ -13,6 +13,10 @@
   text-align: center;
 }
 
+#Post .meta a {
+  color: #212121;
+}
+
 #Post .meta h6 {
   font-size: 14px;
 }
