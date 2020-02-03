@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# The Front Page
+
+<img src="https://cdn.dribbble.com/users/70617/screenshots/9851291/media/570ff0606878340a060ac9689f28a10f.png" alt="The Front Page on Dribbble" />
 
 ## Available Scripts
 
